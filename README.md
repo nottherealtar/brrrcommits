@@ -24,7 +24,7 @@ Or just do in the manual way:
 
 ## Repo using this auto-commit
 
-- You can add your repo here
+-https://github.com/nottherealtar/brrrcommits
 
 
 ## Credits
