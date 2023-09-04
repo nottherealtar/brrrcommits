@@ -1,6 +1,6 @@
 # brrrcommits
-🌳 Making green your Github stats, powered by [Github Actions](https://github.com/features/actions)
-Auto commit small changes to pile up those commit stats
+🌳 Making your Github stats green, powered by [Github Actions](https://github.com/features/actions)
+Auto-commit small changes to pile up those commit stats
 
 [![Auto commit](https://github.com/mazipan/auto-commit/workflows/Auto%20commit/badge.svg)](https://github.com/mazipan/auto-commit/actions?query=workflow%3A%22Auto+commit%22)
 
