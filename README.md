@@ -2,7 +2,8 @@
 🌳 Making your Github stats green, powered by [Github Actions](https://github.com/features/actions)
 Auto-commit small changes to pile up those commit stats
 
-![brrrcommits](https://github.com/nottherealtar/brrrcommits/blob/master/.github/workflows/autocommit.yml/badge.svg)
+[Brrrcommits](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml/badge.svg)
+
 
 ![](screenshoot.png)
 
