@@ -3,7 +3,7 @@
 Auto-commit small changes to pile up those commit stats
 
 ![Brrrcommits](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml/badge.svg)
-[![Auto commit](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml/badge.svg?event=push)](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml)
+[![Brrrcommits](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml/badge.svg?event=push)](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml)
 
 ![](screenshoot.png)
 
