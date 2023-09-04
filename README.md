@@ -1,5 +1,4 @@
 # brrrcommits
-
 🌳 Making green your Github stats, powered by [Github Actions](https://github.com/features/actions)
 Auto commit small changes to pile up those commit stats
 
@@ -19,7 +18,6 @@ Or do it the manual way:
 
 
 ## Credits
-
 - [Github Actions](https://github.com/features/actions)
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
 - [Github Template](https://github.com/mazipan/auto-commit.git)
@@ -29,7 +27,6 @@ Or do it the manual way:
 - [My Linktree](https://bit.ly/nottherealtar)
 - [My Discord Server](https://bit.ly/3smqFxK)
 - [My Twitch](https://bit.ly/tarstwitch)
-- 👉 🌍 [Ko-Fi](https://ko-fi.com/mazipan)
 
 ---
 
