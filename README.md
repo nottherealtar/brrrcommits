@@ -2,7 +2,7 @@
 🌳 Making your Github stats green, powered by [Github Actions](https://github.com/features/actions)
 Auto-commit small changes to pile up those commit stats
 
-[![Auto commit](https://github.com/mazipan/auto-commit/workflows/Auto%20commit/badge.svg)](https://github.com/mazipan/auto-commit/actions?query=workflow%3A%22Auto+commit%22)
+[![Auto commit](https://github.com/nottherealtar/brrrcommits/workflows/brrr%20commit/badge.svg)](https://github.com/nottherealtar/brrrcommits/actions?query=workflow%3A%22brrrcommits%22)
 
 ![](screenshoot.png)
 
