@@ -5,7 +5,7 @@ Auto-commit small changes to pile up those commit stats
 ![Brrrcommits](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml/badge.svg)
 [![Brrrcommits](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml/badge.svg?event=push)](https://github.com/nottherealtar/brrrcommits/actions/workflows/autocommit.yml)
 
-![](screenshoot.png)
+![](BrrrCommitsPreview.png)
 
 ## Make it your own
 - Create your own repo by clicking "**Use this template**" button (**a forked repo will not work**!)
